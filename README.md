@@ -4,6 +4,8 @@ Eu sou **Diego Prates**, estudante de **Análise e Desenvolvimento de Sistemas**
 
 Este repositório é o meu caderno digital: aqui eu guardo o que aprendo, o que erro (muito) e o que finalmente funciona. Tudo organizado do **básico ao avançado**, no meu ritmo e sem pular etapa.
 
+Meus projetos terão a marca "ation". Esse é um domínio da web que registrei. Futuramente será o nome fantasia da minha empresa 🙌🏻!
+
 ## 🎯 O plano
 
 Sair do "o que é um commit?" e chegar no "deploy de uma aplicação full-stack com Next.js", passando por Linux, JavaScript e Node.js no caminho.
