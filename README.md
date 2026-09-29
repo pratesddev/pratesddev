@@ -37,7 +37,7 @@ Aqui ficam os projetos que eu for construindo pelo caminho. Alguns vão ser simp
 
 Os projetos possuirão um marcador conforme relação abaixo. Esse marcador indicará o que está no repositório.
 
-- GitHub 👉🏻 **gh**
+- Git / GitHub 👉🏻 **git**
 - Linux 👉🏻 **lnx**
 - Front-End 👉🏻 **fe**
 - Back-End 👉🏻 **be**
@@ -45,7 +45,7 @@ Os projetos possuirão um marcador conforme relação abaixo. Esse marcador indi
 
 Exemplo:
 
-    gh_comandos_iniciais
+    git_comandos_iniciais
 
     lnx_sripts
 
