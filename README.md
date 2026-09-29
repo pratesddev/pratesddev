@@ -13,7 +13,7 @@ Sair do "o que é um commit?" e chegar no "deploy de uma aplicação full-stack 
 ## 🗺️ Roteiro de estudos
 
 | Etapa | Tema | Status |
-|-------|------|--------|
+| ------- | ------ | -------- |
 | 01 | Git e GitHub | 🟡 Em andamento |
 | 02 | Linux (terminal, permissões, shell script) | ⏳ Na fila |
 | 03 | HTML e CSS | ⏳ Na fila |
@@ -29,7 +29,7 @@ Sair do "o que é um commit?" e chegar no "deploy de uma aplicação full-stack 
 Aqui ficam os projetos que eu for construindo pelo caminho. Alguns vão ser simples, outros nem tanto, mas todos ensinam alguma coisa.
 
 | Projeto | O que é | Tecnologias | Status |
-|---------|---------|-------------|--------|
+| --------- | --------- | ------------- | -------- |
 | [Nome do projeto] | [Descrição rápida] | [Tecnologias] | ⏳ Planejado |
 | [Nome do projeto] | [Descrição rápida] | [Tecnologias] | ⏳ Planejado |
 
@@ -67,8 +67,8 @@ Exemplo:
 
 ## 📫 Vamos conversar?
 
-- LinkedIn: https://linkedin.com/in/prates-diego
-- E-mail: dmoprates1@gmail.com
+- LinkedIn: <https://linkedin.com/in/prates-diego>
+- E-mail: <dmoprates1@gmail.com>
 
 ---
 ⭐ Curtiu? Deixa uma estrela por aqui, isso me motiva a continuar!
