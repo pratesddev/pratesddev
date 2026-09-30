@@ -16,7 +16,7 @@ Sair do "o que é um commit?" e chegar no "deploy de uma aplicação full-stack 
 | ------- | ------ | -------- |
 | 01 | Git e GitHub | 🟡 Em andamento |
 | 02 | Linux (terminal, permissões, shell script) | ⏳ Na fila |
-| 03 | HTML e CSS | ⏳ Na fila |
+| 03 | HTML e CSS | 🟡 Em andamento |
 | 04 | JavaScript | ⏳ Na fila |
 | 05 | Node.js | ⏳ Na fila |
 | 06 | React | ⏳ Na fila |
