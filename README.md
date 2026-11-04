@@ -39,6 +39,7 @@ Aqui ficam os projetos que eu for construindo pelo caminho. Alguns vão ser simp
 
 Os projetos possuirão um marcador conforme relação abaixo. Esse marcador indicará o que está no repositório.
 
+- Documentação 👉🏻 **doc**
 - Git / GitHub 👉🏻 **git**
 - Linux 👉🏻 **lnx**
 - Front-End 👉🏻 **fe**
