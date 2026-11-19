@@ -37,7 +37,7 @@ Linux e Git são a base das duas trilhas.
 | 05 | React | ⏳ Planejado |
 | 06 | Next.js | ⏳ Planejado |
 
-> Roteiro detalhado da Trilha Dev disponível em [`trilha-dev.md`](./trilha-dev.md).
+> Roteiro detalhado da Trilha Dev disponível em [`trilha-dev.md`](https://github.com/pratesddev/doc_trilha_dev).
 
 ### Trilha Infra Moderna
 
@@ -52,7 +52,7 @@ Linux e Git são a base das duas trilhas.
 | 07 | CI/CD e automação | ⏳ Planejado |
 | 08 | Observabilidade e SRE | ⏳ Planejado |
 
-> Roteiro detalhado da Trilha Dev disponível em [`trilha-dev.md`](./trilha-infra.md).
+> Roteiro detalhado da Trilha Dev disponível em [`trilha-dev.md`](https://github.com/pratesddev/doc_trilha_infra_moderna).
 
 ---
 
