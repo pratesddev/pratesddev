@@ -1,75 +1,113 @@
-# 👋 E aí! Bem-vindo(a) à minha jornada dev
+# Diego Prates
 
-Eu sou **Diego Prates**, estudante de **Análise e Desenvolvimento de Sistemas** e, um dia desses, desenvolvedor(a) **full-stack**. 🚀
+**Engenheiro eletricista em transição para desenvolvimento full-stack e infraestrutura moderna (Cloud, Kubernetes e SRE).**
 
-Este repositório é o meu caderno digital: aqui eu guardo o que aprendo, o que erro (muito) e o que finalmente funciona. Tudo organizado do **básico ao avançado**, no meu ritmo e sem pular etapa.
+Estudante de Análise e Desenvolvimento de Sistemas, com bagagem em gestão de equipe de datacenter. Este repositório é o meu caderno técnico: aqui eu registro o que estudo, o que quebro (bastante) e o que finalmente funciona.
 
-Meus projetos terão a marca "ation". Esse é um domínio da web que registrei. Futuramente será o nome fantasia da minha empresa 🙌🏻!
+Meus projetos levam a marca **ation**, domínio que registrei para fins profissionais. 🙌🏻
 
-## 🎯 O plano
+## 🎯 Objetivo
 
-Sair do "o que é um commit?" e chegar no "deploy de uma aplicação full-stack com Next.js", passando por Linux, JavaScript e Node.js no caminho.
+Unir os dois lados da tecnologia: **construir aplicações** e **saber onde e como elas rodam**.
+
+- **Trilha Dev:** do primeiro commit até o deploy de uma aplicação full-stack com Next.js.
+- **Trilha Infra Moderna:** Linux, Cloud, Kubernetes e SRE com tudo documentado em projetos de portfólio.
+
+Linux e Git são a base das duas.
 
 ## 🗺️ Roteiro de estudos
 
-| Etapa | Tema | Status |
-| ------- | ------ | -------- |
-| 01 | Git e GitHub | 🟡 Em andamento |
-| 02 | Linux (terminal, permissões, shell script) | ⏳ Na fila |
-| 03 | HTML e CSS | 🟡 Em andamento |
-| 04 | JavaScript | ⏳ Na fila |
-| 05 | Node.js | ⏳ Na fila |
-| 06 | React | ⏳ Na fila |
-| 07 | Next.js | ⏳ O grande objetivo |
-
 > ✅ Concluído · 🟡 Em andamento · ⏳ Planejado
+
+### Trilha Dev
+
+| # | Tema | Status |
+| --- | --- | --- |
+| 01 | Git e GitHub | 🟡 Em andamento |
+| 03 | HTML e CSS | 🟡 Em andamento |
+| 04 | JavaScript | ⏳ Planejado |
+| 05 | Node.js | ⏳ Planejado |
+| 06 | React | ⏳ Planejado |
+| 07 | Next.js | ⏳ Planejado |
+
+### Trilha Infra Moderna
+
+| # | Tema | Status |
+| --- | --- | --- |
+| 01 | Linux (terminal, permissões, shell script) | 🟡 Em andamento |
+| 02 | Linux e redes aplicados a cloud | ⏳ Planejado |
+| 03 | Cloud (AWS) | ⏳ Planejado |
+| 04 | Containers (Docker) | ⏳ Planejado |
+| 05 | Kubernetes | ⏳ Planejado |
+| 06 | Infraestrutura como código (Terraform) | ⏳ Planejado |
+| 07 | CI/CD e automação | ⏳ Planejado |
+| 08 | Observabilidade e SRE | ⏳ Planejado |
+
+## 🏅 Certificações
+
+| Certificação | Área | Status |
+| --- | --- | --- |
+| AWS Certified Solutions Architect – Associate | Cloud | ⏳ Planejada |
+| CKA (Certified Kubernetes Administrator) | Kubernetes | ⏳ Planejada |
+| HashiCorp Certified: Terraform Associate | Infraestrutura como código | ⏳ Planejada |
 
 ## 🧪 Projetos
 
-Aqui ficam os projetos que eu for construindo pelo caminho. Alguns vão ser simples, outros nem tanto, mas todos ensinam alguma coisa.
+Cada projeto fica em uma pasta própria, com README, decisões técnicas e o que aprendi no caminho. Alguns são simples, outros nem tanto, mas todos ensinam alguma coisa.
 
 | Projeto | O que é | Tecnologias | Status |
-| --------- | --------- | ------------- | -------- |
-| [Nome do projeto] | [Descrição rápida] | [Tecnologias] | ⏳ Planejado |
-| [Nome do projeto] | [Descrição rápida] | [Tecnologias] | ⏳ Planejado |
+| --- | --- | --- | --- |
+| _Em breve_ | | | ⏳ Planejado |
 
-> Ainda está meio vazio? Relaxa, tá só começando. 😄
+> Ainda está meio vazio? Relaxa, está só começando. 😄
 
-## 📂 Como o repositório está organizado
+## 📂 Organização do repositório
 
-Os projetos possuirão um marcador conforme relação abaixo. Esse marcador indicará o que está no repositório.
+Cada pasta começa com um prefixo que indica o tipo de conteúdo:
 
-- Documentação 👉🏻 **doc**
-- Git / GitHub 👉🏻 **git**
-- Linux 👉🏻 **lnx**
-- Front-End 👉🏻 **fe**
-- Back-End 👉🏻 **be**
-- Full-Stack 👉🏻 **fs**
+| Prefixo | Conteúdo |
+| --- | --- |
+| `doc` | Documentação |
+| `git` | Git e GitHub |
+| `lnx` | Linux |
+| `fe` | Front-end |
+| `be` | Back-end |
+| `fs` | Full-stack |
+| `cld` | Cloud |
+| `cnt` | Containers e Kubernetes |
+| `iac` | Infraestrutura como código |
+| `sre` | Observabilidade e confiabilidade |
 
-Exemplo:
+Exemplos: `git_comandos_iniciais`, `lnx_scripts`, `iac_terraform_primeiro_modulo`.
 
-    git_comandos_iniciais
-
-    lnx_sripts
-
-## 🐧 Meu setup
+## 🧰 Setup
 
 - **Sistema:** Linux (Ubuntu 26.04), porque terminal é vida 🖤
 - **Editor:** VS Code
-- **Versionamento:** Git + GitHub
+- **Versionamento:** Git e GitHub
 
 ## 🛠️ Tecnologias
+
+**Em uso**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Em estudo**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-## 📫 Vamos conversar?
+## 📫 Contato
 
 - LinkedIn: <https://linkedin.com/in/prates-diego>
 - E-mail: <dmoprates1@gmail.com>
 
 ---
-⭐ Curtiu? Deixa uma estrela por aqui, isso me motiva a continuar!
+
+⭐ Curtiu? Deixe uma estrela, isso me motiva a continuar!
