@@ -45,11 +45,18 @@ Linux e Git são a base das duas.
 
 ## 🏅 Certificações
 
-| Certificação | Área | Status |
-| --- | --- | --- |
-| AWS Certified Solutions Architect – Associate | Cloud | ⏳ Planejada |
-| CKA (Certified Kubernetes Administrator) | Kubernetes | ⏳ Planejada |
-| HashiCorp Certified: Terraform Associate | Infraestrutura como código | ⏳ Planejada |
+| Certificação | Área | Tipo | Status |
+| --- | --- | --- | --- |
+| AWS Certified Solutions Architect – Associate | Cloud | 🔴 Obrigatória | ⏳ Planejada |
+| CKA (Certified Kubernetes Administrator) | Kubernetes | 🔴 Obrigatória | ⏳ Planejada |
+| HashiCorp Certified: Terraform Associate | Infraestrutura como código | 🔴 Obrigatória | ⏳ Planejada |
+| LFCS (Linux Foundation Certified System Administrator) | Linux | 🟢 Recomendada | ⏳ Planejada |
+| KCNA (Kubernetes and Cloud Native Associate) | Cloud native | 🟢 Recomendada | ⏳ Planejada |
+| PCA (Prometheus Certified Associate) | Observabilidade e SRE | 🟢 Recomendada | ⏳ Planejada |
+| CGOA (GitOps Certified Associate) | GitOps | 🟢 Recomendada | ⏳ Planejada |
+| CNPA (Cloud Native Platform Engineer Associate) | Platform Engineering | 🟢 Recomendada | ⏳ Planejada |
+| CKS (Certified Kubernetes Security Specialist) | Segurança em Kubernetes | 🟢 Recomendada | ⏳ Planejada |
+| AWS DevOps Engineer – Professional ou Google Professional Cloud DevOps Engineer | Cloud DevOps e SRE | 🟢 Recomendada | ⏳ Planejada |
 
 ## 🧪 Projetos
 
