@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <radialGradient id="fade" cx="35%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D0F14" stop-opacity="1"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#1E2738" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="#0D0F14"/>
+  <rect width="1200" height="630" fill="url(#grid)" opacity="0.6"/>
+  <rect width="1200" height="630" fill="url(#fade)"/>
+
+  <!-- icon -->
+  <rect x="90" y="90" width="128" height="128" rx="30" fill="#161B27" stroke="#1E2738" stroke-width="2"/>
+  <polyline points="128,132 168,154 128,176" fill="none" stroke="url(#g)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="170" y="196" width="22" height="11" rx="2" fill="url(#g)"/>
+
+  <text x="90" y="330" font-family="Sora" font-weight="800" font-size="76" letter-spacing="-1.5" fill="#F8FAFC">ation<tspan fill="#3B82F6">.</tspan></text>
+  <text x="90" y="390" font-family="Sora" font-weight="500" font-size="30" fill="#94A3B8">Tecnologia que transforma seu negócio.</text>
+
+  <!-- terminal card -->
+  <rect x="90" y="440" width="700" height="130" rx="14" fill="#161B27" stroke="#1E2738" stroke-width="1.5"/>
+  <circle cx="122" cy="470" r="6" fill="#4B5870"/>
+  <circle cx="144" cy="470" r="6" fill="#4B5870"/>
+  <circle cx="166" cy="470" r="6" fill="#4B5870"/>
+  <text x="120" y="510" font-family="JetBrains Mono" font-weight="500" font-size="22" fill="#3B82F6">~/ation $ <tspan fill="#F8FAFC">init projeto-cliente</tspan></text>
+  <text x="120" y="545" font-family="JetBrains Mono" font-weight="400" font-size="20" fill="#4ADE80">✔ Performance: A+ (PageSpeed 97)</text>
+
+  <text x="1110" y="580" font-family="JetBrains Mono" font-weight="400" font-size="20" fill="#4B5870" text-anchor="end">ation.dev.br</text>
+</svg>

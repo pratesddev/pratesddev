@@ -7,6 +7,8 @@ Este repositório é o meu **caderno técnico**: registro o que estudo, o que qu
 
 Meus projetos levam a marca **ation** — domínio registrado para fins profissionais. 🙌🏻
 
+![Ation baner](./assets/og-banner.svg)
+
 ---
 
 ## 🎯 Objetivo
@@ -27,18 +29,20 @@ Linux e Git são a base das duas trilhas.
 ### Trilha Dev
 
 | # | Tema | Status |
-|---|------|--------|
-| 01 | Git e GitHub | 🟡 Em andamento |
+| --- | ------ | -------- |
+| 01 | Git e GitHub | ✅ Concluído |
 | 02 | HTML e CSS | 🟡 Em andamento |
 | 03 | JavaScript | ⏳ Planejado |
 | 04 | Node.js | ⏳ Planejado |
 | 05 | React | ⏳ Planejado |
 | 06 | Next.js | ⏳ Planejado |
 
+> Roteiro detalhado da Trilha Dev disponível em [`trilha-dev.md`](./trilha-dev.md).
+
 ### Trilha Infra Moderna
 
 | # | Tema | Status |
-|---|------|--------|
+| --- | ------ | -------- |
 | 01 | Linux (terminal, permissões, shell script) | 🟡 Em andamento |
 | 02 | Linux e redes aplicados a cloud | ⏳ Planejado |
 | 03 | Cloud (AWS) | ⏳ Planejado |
@@ -48,7 +52,7 @@ Linux e Git são a base das duas trilhas.
 | 07 | CI/CD e automação | ⏳ Planejado |
 | 08 | Observabilidade e SRE | ⏳ Planejado |
 
-> Roteiro detalhado da Trilha Dev disponível em [`trilha-dev.md`](./trilha-dev.md).
+> Roteiro detalhado da Trilha Dev disponível em [`trilha-dev.md`](./trilha-infra.md).
 
 ---
 
@@ -106,10 +110,14 @@ Ordenadas do nível **inicial → avançado**.
 ## 🧪 Projetos
 
 Cada projeto fica em uma pasta própria, com README, decisões técnicas e o que aprendi no caminho.
+Nesta seção estão indicados os projetos mais relevantes da trilha.
 
 | Projeto | O que é | Tecnologias | Status |
 | --------- | --------- | ------------- | -------- |
-| _Em breve_ | — | — | ⏳ Planejado |
+| [Página Pessoal](https://github.com/pratesddev/fe_pagina_pessoal) | Curriculo profissional | HTML5 & CSS3 | ✅ Concluído |
+| [Finans](https://github.com/pratesddev/fe_finans) | Página ficticia de uma instituição de gestão financeira | HTML5 & CSS3 | ✅ Concluído |
+| [Museu Nacional](https://github.com/pratesddev/fe_museu_nacional) | Página fictícia do Museu Nacional | HTML5 & CSS3 | ✅ Concluído |
+| [Bikraft](https://github.com/pratesddev/fe_bikecraft) | Projeto para uma loja de venda de bicicletas elétricas | HTML5 & CSS3 | 🟡 Em andamento |
 
 > Ainda está começando. Os primeiros projetos aparecerão conforme a trilha avançar. 😄
 
